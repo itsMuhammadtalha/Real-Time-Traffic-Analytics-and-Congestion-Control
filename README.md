@@ -13,6 +13,6 @@ Traditional traffic signal systems often struggle to adapt to changing traffic c
 Feel free to explore our project and reach out to us for any inquiries or collaborations. Thank you for your interest in our work!
 
 ---
-*Project maintained by [Muhammad Talha](https://github.com/itsMuhammadtalha)* 
+*Project maintained by [Muhammad Talha](https://github.com/itsMuhammadtalha)* <br>
                       *[Irsa Khan](https://github.com/IrsaKhan)*
                       
