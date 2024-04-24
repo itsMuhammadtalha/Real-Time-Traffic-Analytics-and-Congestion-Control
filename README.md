@@ -8,7 +8,10 @@ Traditional traffic signal systems often struggle to adapt to changing traffic c
 
 ## Project Links  
 - [Defense Presentation Slides](https://github.com/itsMuhammadtalha/Real-Time-Traffic-Analytics-and-Congestion-Control/blob/master/fyp1-presentation-1-final.pptx)
-- 
+
+## Architecture
+![Architecture Diagram](https://github.com/itsMuhammadtalha/Real-Time-Traffic-Analytics-and-Congestion-Control/assets/80144916/0a9afd36-d734-4ad7-992e-73e6e0766381)
+
 
 Feel free to explore our project and reach out to us for any inquiries or collaborations. Thank you for your interest in our work!
 
