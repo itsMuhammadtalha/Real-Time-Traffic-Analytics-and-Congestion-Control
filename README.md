@@ -40,6 +40,10 @@ Plotly / Matplotlib: Visualize traffic trends and patterns.
 ## Architecture
 ![Architecture Diagram](https://github.com/itsMuhammadtalha/Real-Time-Traffic-Analytics-and-Congestion-Control/assets/80144916/0a9afd36-d734-4ad7-992e-73e6e0766381)
 
+## Dashboard
+![Screenshot from 2024-10-31 19-13-53](https://github.com/user-attachments/assets/af36acf5-c9c8-4ff5-a8e0-84bb33153bdb)
+
+
 
 
 ---
